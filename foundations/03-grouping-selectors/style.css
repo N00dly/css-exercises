@@ -7,7 +7,7 @@
     background-color: yellow;
 }
 
-button.yellow, .black {
+.yellow, .black {
     font-size: 36px;
     font-family: Helvetica, Times, sans-serif;
 }
